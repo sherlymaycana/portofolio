@@ -1580,3 +1580,11 @@ section {
   font-weight: 600;
   margin-bottom: 40px;
 }
+ul.feature-wp {
+  list-style: auto;
+  padding-left: 1rem;
+}
+ul.subwp {
+  list-style: initial;
+  padding-left: 1rem;
+}
